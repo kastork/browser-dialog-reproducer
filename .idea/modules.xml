@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer.iml" filepath="$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer_main.iml" group="browser-dialog-reproducer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer_package.iml" filepath="$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer_package.iml" group="browser-dialog-reproducer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/browser-dialog-reproducer_test.iml" group="browser-dialog-reproducer" />
+    </modules>
+  </component>
+</project>
