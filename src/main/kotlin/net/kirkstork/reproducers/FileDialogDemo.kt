@@ -13,8 +13,8 @@ class MainView : View("Demo") {
 	override val root = borderpane {
 		center {
 			form {
-				fieldset("Toolbox Global Setup") {
-					field("Downloaded Archives Directory") {
+				fieldset("Demo") {
+					field("File Path") {
 						textfield(preferencesModel.filePath)
 						button("...") {
 							setOnAction {
